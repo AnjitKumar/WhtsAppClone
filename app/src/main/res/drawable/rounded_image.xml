@@ -1,0 +1,5 @@
+<!-- res/drawable/rounded_imageview_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="1000dp" /> <!-- Adjust the radius to control the amount of rounding -->
+    <solid android:color="#ffffff" /> <!-- Set the background color, or use transparent if needed -->
+</shape>
